@@ -20,7 +20,7 @@ const chinaExam: DictionaryResource[] = [
     description: '1',
     category: '中国考试',
     tags: ['大学英语'],
-    url: '/dicts/CET4_T.json',
+    url: '/dicts/zhongshu_guotuotuo_zhuan.json',
     length: 32,
     language: 'en',
     languageCategory: 'en',
