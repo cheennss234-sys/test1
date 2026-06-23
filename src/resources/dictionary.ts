@@ -14,6 +14,17 @@ const chinaExam: DictionaryResource[] = [
     language: 'en',
     languageCategory: 'en',
   },
+   {
+    id: 'zhongshu_guotuotuo_zhuan',
+    name: '种树郭橐驼传',
+    description: '1',
+    category: '中国考试',
+    tags: ['大学英语'],
+    url: '/dicts/CET4_T.json',
+    length: 32,
+    language: 'en',
+    languageCategory: 'en',
+  },
   {
     id: 'beijing-grade12-english-vocab',
     name: '北京高三英语课外词汇',
