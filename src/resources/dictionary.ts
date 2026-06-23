@@ -22,8 +22,8 @@ const chinaExam: DictionaryResource[] = [
     tags: ['大学英语'],
     url: '/dicts/zhongshu_guotuotuo_zhuan.json',
     length: 32,
-    language: 'zh',
-    languageCategory: 'zh',
+    language: 'en',
+    languageCategory: 'en',
   },
   {
     id: 'beijing-grade12-english-vocab',
